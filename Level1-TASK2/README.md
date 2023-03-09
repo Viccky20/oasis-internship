@@ -1,1 +1,1 @@
-<b>This Repository is for My portfolio of webdevelopment task.</b>
+<b>This Repository is about my OASIS Internship.</b>
